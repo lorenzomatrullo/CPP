@@ -1,5 +1,8 @@
 #include <iostream>
 
+// Do some code only IF some condition is True
+// Else do something else
+
 using namespace std;
 
 int main(){
