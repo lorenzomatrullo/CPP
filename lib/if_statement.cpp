@@ -12,9 +12,9 @@ int main(){
     cout << "Enter your age: ";
     cin >> age;
 
-    if(age >= 18){
+    if (age >= 18) {
         cout << "Welcome!";
-    } else if (age < 0){
+    } else if (age < 0) {
         cout << "You haven't born yet!";
     } else {
         cout << "You are not old enough to join!";
