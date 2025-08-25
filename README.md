@@ -1,7 +1,6 @@
 # C++
 
 ### Learning Path
-
 1. Basics: variables, I/O, types
    - [Variables](libs/variables.cpp)
    - [Data Types](libs/data_types.cpp)
@@ -86,8 +85,9 @@
    - [Random Numbers](libs/random_numbers.cpp)
    - [Stacks](libs/stacks.cpp)
 
-## Practice Scripts (Suggested Order)
+<br>
 
+## Practice Scripts (Suggested Order)
 1. [Calculator](scripts/calculator.cpp)
 2. [Temperature Conversions](scripts/temperature_conversions.cpp)
 3. [Binary to Decimal](scripts/binary_to_decimal.cpp)
