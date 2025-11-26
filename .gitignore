@@ -1,1 +1,46 @@
+# Compiled object files and binaries
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
 *.exe
+*.out
+a.out
+
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+Debug/
+Release/
+Bin/
+bin/
+obj/
+lib/
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
+*.swp
+*.swo
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.code-workspace
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+
+# macOS and system files
+.DS_Store
+Thumbs.db
