@@ -66,7 +66,7 @@ Practice scripts live in `scripts/` and continue the numbering.
   - [19 - Nested loops](libs/19-nested_loop.cpp)
   - [20 - Range-based for (for-each) loop](libs/20-forEach_loop.cpp)
 
-### 4. Arrays, strings, and `std::vector`
+### 4. Arrays, strings, and vectors
 
 - **Raw arrays and algorithms**
   - [21 - Arrays](libs/21-arrays.cpp)
@@ -179,6 +179,7 @@ They continue the numbering from the core lessons.
 
 
 <br>
+
 ## How to work through the repo
 - **New to C++?** Start at `libs/01-variables.cpp` and work forward in order.
   - Read the code, predict what it does, then run it.
